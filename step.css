@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.container{
+.stepcontainer{
     display: flex;
     flex-direction: column;
     justify-content: center;
