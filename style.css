@@ -75,3 +75,140 @@ h1{
     text-align: center;
     text-decoration: none;
 }
+
+
+.stepcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 400px;
+    padding: 40px 40px;
+    margin: auto;
+    margin-top: 10%;
+    background-color: #f8f8f8;
+    padding: 0 20px 0 20px;
+}
+h1{
+    font-size: 58px;
+}
+.green {
+    color: #4cff05;
+
+}
+.textp{
+    font-weight: 100;
+    font-size: 16px;
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+
+}
+.bold-tex{
+    font-weight: bold;
+}
+.dis-step{
+    display: flex;
+    gap: 170px;
+    margin: 10px;
+    
+}
+.line {
+    border: 2 solid black;
+}
+.f-l-name{
+    display: flex;
+    gap: 155px;
+}
+.padin{
+    padding-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-style: double;
+    border-width: 1px;
+    
+}
+.btn a {
+    /* width: 70px; */
+    padding: 5px 110px 5px 90px;
+    border-radius: 15px;
+    border-style: none;
+    text-decoration: none;
+    
+} 
+
+.red-pre{
+    background-color: red;
+    color: #f8f8f8;
+}
+
+.green-btn{
+    background-color: #4cff05;
+    color: #f8f8f8;
+}
+
+/* third page */
+
+
+.stepthcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 400px;
+    padding: 40px 40px;
+    margin: auto;
+    margin-top: 10%;
+    background-color: #f8f8f8;
+    padding: 0 20px 0 20px;
+}
+h1{
+    font-size: 58px;
+}
+.green {
+    color: #4cff05;
+
+}
+.textp{
+    font-weight: 100;
+    font-size: 16px;
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+
+}
+.bold-tex{
+    font-weight: bold;
+}
+.dis-step{
+    display: flex;
+    gap: 180px;
+    margin: 10px;
+    
+}
+.dis-flex{
+    display: flex;
+    gap: 150px;
+}
+
+.btn a {
+    /* width: 70px; */
+    /* margin-top: 40px; */
+    padding: 5px 80px 5px 80px;
+    border-radius: 15px;
+    border-style: none;
+    text-decoration: none;
+    
+} 
+
+.red-pre{
+    background-color: red;
+    color: #f8f8f8;
+}
+
+.green-btn{
+    background-color: #4cff05;
+    color: #f8f8f8;
+}
